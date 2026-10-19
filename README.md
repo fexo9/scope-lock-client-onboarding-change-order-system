@@ -20,6 +20,8 @@ A documentation and decision system for freelancers and solo operators. Before a
 
 Free sample in this repo: `scope-lock-SAMPLE.xlsx` — the START-HERE, Scope Agreement, and Worked Example sheets from the real workbook.
 
+Demo video: 72-second walkthrough of the real files. https://www.youtube.com/watch?v=RvjjrIp7e2g
+
 ## Buy
 
 - Getly: https://www.getly.store/product/scope-lock-client-onboarding-change-order-system
